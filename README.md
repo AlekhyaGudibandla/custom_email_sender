@@ -12,5 +12,5 @@ Clone the Repository: git clone <repository-url>
 Install Dependencies: npm install
 Configure: Add environment variables for database, ESP API key, and LLM access.
 Run the Application: npm start
-![Preview of the application](./screenshots/Screenshot 2024-11-10 004845.png)
+
 
