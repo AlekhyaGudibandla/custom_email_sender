@@ -1,7 +1,7 @@
 # Custom Email Sender Application
 This project is a custom email-sending tool with a front-end dashboard, developed for a skills assessment in machine learning, API integration, and user-friendly design.
 
-![Description of Image](./screenshots/Dashboard.png)
+![Description of Image](./screenshots/Front_page.png)
 
 
 Key Features
