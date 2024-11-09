@@ -1,6 +1,9 @@
 # Custom Email Sender Application
 This project is a custom email-sending tool with a front-end dashboard, developed for a skills assessment in machine learning, API integration, and user-friendly design.
 
+![Description of Image](./screenshots/Dashboard.png)
+
+
 Key Features
 Data Input: Connects to Google Sheets or uploads CSV files for email data.
 Email Customization: Customizable prompts using placeholders (e.g., {Company Name}, {Location}).
