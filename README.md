@@ -18,7 +18,7 @@ To get started with the **Custom Email Sender Application**, follow the simple s
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/AlekhyaGudibandla/custom_email_sender.git
     ```
 
 2. **Install Dependencies**:
